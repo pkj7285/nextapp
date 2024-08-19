@@ -1,3 +1,7 @@
+## db.json 띄우는 명령어  
+## C:\workspace\nextapp> npx json-server --port 9999 --watch db.json
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
